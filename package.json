@@ -1,9 +1,16 @@
 {
-  "name": "crud-gitflow-app",
+  "name": "cafeteria-reposteria-pedidos",
   "version": "1.0.0",
-  "description": "Proyecto CRUD funcional para Tarea 3 - Git y Git Flow",
+  "description": "Gestor web CRUD de pedidos para cafeteria y reposteria",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "keywords": [
+    "cafeteria",
+    "reposteria",
+    "crud",
+    "git-flow"
+  ],
+  "license": "MIT"
 }
