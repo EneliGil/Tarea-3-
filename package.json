@@ -1,0 +1,9 @@
+{
+  "name": "crud-gitflow-app",
+  "version": "1.0.0",
+  "description": "Proyecto CRUD funcional para Tarea 3 - Git y Git Flow",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
